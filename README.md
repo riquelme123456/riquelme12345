@@ -1,1 +1,15 @@
-# riquelme12345
+### Boas vindas ao meu perfil :blue_heart
+
+Meu nome é riquelme
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+deboramoreirajubileu@gmail.com
+
+@1105021464sp@al.ediucacao.sp.gov.br
+
+![descrição do GIF](link GIF do Tenor)
